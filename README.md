@@ -1,12 +1,12 @@
-Turma: SI1Nb
+**Turma:** SI1Nb
 
-Integrantes:
-Marcello
-Joaquim
-Gervásio
+**Integrantes:**
+- Marcello
+- Joaquim
+- Gervásio
 
+**Descrição:**
 
-Descrição:
 Uma cadeia de lojas contratou uma empresa para desenvolver um sistema. 
 
 Sendo assim, você foi contratado para criar o modelo de banco de dados que conseguirá suprir as necessidades deste sistema. 
@@ -24,9 +24,9 @@ A cadeia de lojas conta com um único estoque, no qual existem diversos produtos
 
 1. Identifique todas as entidades que devem ser representadas no seu BD.
 
-2. Identifique todos os relacionamentos entre as entidades encontradas.
+3. Identifique todos os relacionamentos entre as entidades encontradas.
 
-3. Defina a obrigatoriedade e cardinalidade de cada relacionamento. 
+5. Defina a obrigatoriedade e cardinalidade de cada relacionamento. 
 
-4. COm base nas entidades e nos relacionamentos encontrados, crie um modelo relacional para o seu BD.
+7. Com base nas entidades e nos relacionamentos encontrados, crie um modelo relacional para o seu BD.
 
