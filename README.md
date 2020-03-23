@@ -5,6 +5,8 @@
 - Joaquim
 - Gervásio
 
+**Criado com o editor:** https://pandao.github.io/
+
 **Descrição:**
 
 Uma cadeia de lojas contratou uma empresa para desenvolver um sistema. 
