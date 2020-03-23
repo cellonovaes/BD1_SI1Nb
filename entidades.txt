@@ -1,0 +1,15 @@
+Vendedor
+Atendente
+Cliente
+Venda
+Atendimento
+Filial
+Produto
+
+
+
+
+
+
+
+
