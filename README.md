@@ -1,3 +1,12 @@
+Turma: SI1Nb
+
+Integrantes:
+Marcello
+Joaquim
+Gervásio
+
+
+Descrição:
 Uma cadeia de lojas contratou uma empresa para desenvolver um sistema. 
 
 Sendo assim, você foi contratado para criar o modelo de banco de dados que conseguirá suprir as necessidades deste sistema. 
